@@ -2,7 +2,7 @@
 
 I built Trillo as a fully responsive hotel booking landing page to demonstrate advanced CSS architecture and modern frontend workflow. This project let me apply modular SCSS, CSS Grid, and Flexbox to create a visually engaging, interactive UI from scratch. My focus was on mastering layout, clean code organization, and micro-animations—without relying on any backend logic. Trillo exists as a portfolio and learning piece, reflecting my approach to scalable, maintainable frontend design.
 
-![Trillo Preview](./dist/images/hotel-1.jpg) <!-- Replace with your uploaded GIF if desired -->
+![Trillo Preview](./trillo.gif) <!-- Replace with your uploaded GIF if desired -->
 
 ---
 
